@@ -9,7 +9,7 @@ const secretKey = "Anti25";
 
 const users = [
   { id: 1, name: "John", password: "123" },
-  { id: 2, name: "Jane", password: "456" },
+  { id: 2, name: "Jane", password: "4567" },
 ];
 
 //login
